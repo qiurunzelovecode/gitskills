@@ -1,4 +1,5 @@
 # gitskills
 nihaoooooooo
 hhhhhhhhhhhh
-createing a new branch is quickand simple
+creating a new brunch is qsuick and simples
+
